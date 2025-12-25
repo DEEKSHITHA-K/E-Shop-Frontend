@@ -1,8 +1,44 @@
-### Site Delopyed in Netlify
-URL for Netlify Deployed App: [https://e-shop-frontendapp.netlify.app/](https://e-shop-frontendapp.netlify.app/)
+# E-Shop Frontend – Attempt 2 (Cost-Optimized Setup)
+
+This repository contains the **React frontend** for the E-Shop e-commerce application.
+
+⚠️ This frontend is part of **Attempt 2**, a cost-optimized deployment where:
+- Backend is hosted on **Render**
+- Database is hosted on **Railway (MySQL)**
+- Frontend is hosted on **Netlify**
+
+This setup was created to improve deployment stability while minimizing cloud costs.
 
 ---
 
-- Backend Hosted on Render: [https://e-shop-backend-g3nt.onrender.com](https://e-shop-backend-g3nt.onrender.com)
+## 🛠 Tech Stack
+- React.js
+- JavaScript
+- HTML, CSS
+- REST API integration
 
-- Youtube Link for project demo: [https://youtu.be/5SQc4n78oLA](https://youtu.be/5SQc4n78oLA)
+---
+
+## 🌐 Live Application
+- Frontend (Netlify):  
+  https://e-shop-frontendapp.netlify.app/
+
+---
+
+## 🎥 Demo Video
+- Attempt 2 (Render + Railway):  
+  https://youtu.be/5SQc4n78oLA
+
+---
+
+## 🔗 Related Repositories & Links
+
+### Attempt 2
+- Backend (Render):  
+  https://github.com/DEEKSHITHA-K/E-Shop-Backend
+
+### Attempt 1
+- Frontend (GCP):  
+  https://github.com/DEEKSHITHA-K/Shopify_Frontend
+- Backend (GCP):  
+  https://github.com/DEEKSHITHA-K/ShopifyBackend
